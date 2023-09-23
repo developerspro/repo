@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Bom dia, com café");
+	printf("Bom dia, com café");
 	return 0;
 }
